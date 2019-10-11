@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fanaticoapp/static/css/main.c9eeccbf.chunk.css",
-    "main.js": "/fanaticoapp/static/js/main.9ac67fa0.chunk.js",
-    "main.js.map": "/fanaticoapp/static/js/main.9ac67fa0.chunk.js.map",
+    "main.js": "/fanaticoapp/static/js/main.77c98d5d.chunk.js",
+    "main.js.map": "/fanaticoapp/static/js/main.77c98d5d.chunk.js.map",
     "runtime-main.js": "/fanaticoapp/static/js/runtime-main.76fb392b.js",
     "runtime-main.js.map": "/fanaticoapp/static/js/runtime-main.76fb392b.js.map",
     "static/js/2.226757a1.chunk.js": "/fanaticoapp/static/js/2.226757a1.chunk.js",
     "static/js/2.226757a1.chunk.js.map": "/fanaticoapp/static/js/2.226757a1.chunk.js.map",
     "index.html": "/fanaticoapp/index.html",
-    "precache-manifest.35129817be6679c1af4fcb3f4503598e.js": "/fanaticoapp/precache-manifest.35129817be6679c1af4fcb3f4503598e.js",
+    "precache-manifest.f77b7f392fc8fd0d93d62e8646c94bf9.js": "/fanaticoapp/precache-manifest.f77b7f392fc8fd0d93d62e8646c94bf9.js",
     "service-worker.js": "/fanaticoapp/service-worker.js",
     "static/css/main.c9eeccbf.chunk.css.map": "/fanaticoapp/static/css/main.c9eeccbf.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.76fb392b.js",
     "static/js/2.226757a1.chunk.js",
     "static/css/main.c9eeccbf.chunk.css",
-    "static/js/main.9ac67fa0.chunk.js"
+    "static/js/main.77c98d5d.chunk.js"
   ]
 }

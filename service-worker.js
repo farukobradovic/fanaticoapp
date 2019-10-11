@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fanaticoapp/precache-manifest.35129817be6679c1af4fcb3f4503598e.js"
+  "/fanaticoapp/precache-manifest.f77b7f392fc8fd0d93d62e8646c94bf9.js"
 );
 
 self.addEventListener('message', (event) => {
