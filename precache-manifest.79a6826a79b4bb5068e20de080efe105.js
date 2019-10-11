@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "075f6b11aa449de9a265f5b34882bcab",
+    "revision": "23b35511c9cb08c3a4725646f60bde0b",
     "url": "/fanaticoapp/index.html"
   },
   {
-    "revision": "6a974da3a02ab95d2164",
+    "revision": "1e21b4050f7a8d29f240",
     "url": "/fanaticoapp/static/css/main.c9eeccbf.chunk.css"
   },
   {
-    "revision": "ecaa217a515894d54c6d",
-    "url": "/fanaticoapp/static/js/2.226757a1.chunk.js"
+    "revision": "866c60c952c55764141e",
+    "url": "/fanaticoapp/static/js/2.d7a27632.chunk.js"
   },
   {
-    "revision": "6a974da3a02ab95d2164",
-    "url": "/fanaticoapp/static/js/main.77c98d5d.chunk.js"
+    "revision": "1e21b4050f7a8d29f240",
+    "url": "/fanaticoapp/static/js/main.38bf2114.chunk.js"
   },
   {
     "revision": "21172fbe90620697c530",

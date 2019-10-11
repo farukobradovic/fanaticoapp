@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/fanaticoapp/static/css/main.c9eeccbf.chunk.css",
-    "main.js": "/fanaticoapp/static/js/main.77c98d5d.chunk.js",
-    "main.js.map": "/fanaticoapp/static/js/main.77c98d5d.chunk.js.map",
+    "main.js": "/fanaticoapp/static/js/main.38bf2114.chunk.js",
+    "main.js.map": "/fanaticoapp/static/js/main.38bf2114.chunk.js.map",
     "runtime-main.js": "/fanaticoapp/static/js/runtime-main.76fb392b.js",
     "runtime-main.js.map": "/fanaticoapp/static/js/runtime-main.76fb392b.js.map",
-    "static/js/2.226757a1.chunk.js": "/fanaticoapp/static/js/2.226757a1.chunk.js",
-    "static/js/2.226757a1.chunk.js.map": "/fanaticoapp/static/js/2.226757a1.chunk.js.map",
+    "static/js/2.d7a27632.chunk.js": "/fanaticoapp/static/js/2.d7a27632.chunk.js",
+    "static/js/2.d7a27632.chunk.js.map": "/fanaticoapp/static/js/2.d7a27632.chunk.js.map",
     "index.html": "/fanaticoapp/index.html",
-    "precache-manifest.f77b7f392fc8fd0d93d62e8646c94bf9.js": "/fanaticoapp/precache-manifest.f77b7f392fc8fd0d93d62e8646c94bf9.js",
+    "precache-manifest.79a6826a79b4bb5068e20de080efe105.js": "/fanaticoapp/precache-manifest.79a6826a79b4bb5068e20de080efe105.js",
     "service-worker.js": "/fanaticoapp/service-worker.js",
     "static/css/main.c9eeccbf.chunk.css.map": "/fanaticoapp/static/css/main.c9eeccbf.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.76fb392b.js",
-    "static/js/2.226757a1.chunk.js",
+    "static/js/2.d7a27632.chunk.js",
     "static/css/main.c9eeccbf.chunk.css",
-    "static/js/main.77c98d5d.chunk.js"
+    "static/js/main.38bf2114.chunk.js"
   ]
 }
